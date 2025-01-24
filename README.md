@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vipinrao4
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
+- 👀 A skilled Data Analyst
+- 🌱 Having Years of Experience in Data Feild
 - 💞️ I’m looking to collaborate on python and sql
 
 
